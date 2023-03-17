@@ -1,4 +1,8 @@
-Dimension by HTML5 UP
+Hello everyone!
+This is the code for my portfolio website which I built using basic HTML and using the template Dimension by HTML5 UP. It was my first experience working with websites and it was definitely a new experience. I hope you all like it! 
+
+
+
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
